@@ -11,5 +11,6 @@ with st.sidebar:
     st.link_button("Materiais", "#")
     st.link_button("Links", "#")
     st.link_button("Contato", "#")
+    st.link_button("anfknd", "#")
     st.link_button("Avaliação", "#")
-     
+    
