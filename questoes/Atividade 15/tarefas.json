@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "tarefa": "atualzado",
+        "status": "Concluída"
+    },
+    {
+        "id": 2,
+        "tarefa": "Fazer exercício",
+        "status": "Em andamento"
+    },
+    {
+        "id": 3,
+        "tarefa": "tarefa trocaada",
+        "status": "Pendente"
+    },
+    {
+        "id": 4,
+        "tarefa": "Estudar FastAPI",
+        "status": "Pendente"
+    },
+    {
+        "id": 5,
+        "tarefa": "jogar",
+        "status": "Pendente"
+    },
+    {
+        "id": 6,
+        "tarefa": "add",
+        "status": "Concluída"
+    },
+    {
+        "id": 7,
+        "tarefa": "atualzado",
+        "status": "Concluída"
+    }
+]
